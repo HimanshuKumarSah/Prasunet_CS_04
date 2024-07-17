@@ -21,7 +21,7 @@ The main functions of this keylogger are as follow:
 - Send email with the log files to designated email address
 
 _Do keep in mind that the screenshot, clipboard and microphone features only work on windows machines._
-<br>
+<br><br>
 This was created using this youtube tutorial:
 <br>
 https://www.youtube.com/watch?v=25um032xgrw&list=PLljG_n2CWpOOBYrxhjQfsQV5lj7rVBttM&index=11
