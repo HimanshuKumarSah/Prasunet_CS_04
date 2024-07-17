@@ -20,6 +20,7 @@ The main functions of this keylogger are as follow:
 - Copy items from Clipboard (as a string)
 - Send email with the log files to designated email address
 
+_Do keep in mind that the screenshot, clipboard and microphone features only work on windows machines._
 <br>
 This was created using this youtube tutorial:
 <br>
